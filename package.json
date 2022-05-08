@@ -1,0 +1,21 @@
+{
+  "name": "Kral-Music",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord-music-player": "^8.3.1",
+    "discord.js": "^13.5.0",
+    "express": "^4.17.2",
+    "node": "^16.11.1",
+    "ytdl-core": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
